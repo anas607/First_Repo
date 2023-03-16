@@ -2,4 +2,4 @@
 learning git from scratch
 
 
-##project notes
+## project notes
